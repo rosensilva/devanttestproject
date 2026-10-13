@@ -1,0 +1,9 @@
+[package]
+org = "rosensilva"
+name = "helloworld"
+version = "0.1.0"
+distribution = "2201.14.0"
+title = "helloworld"
+
+[build-options]
+sticky = true
